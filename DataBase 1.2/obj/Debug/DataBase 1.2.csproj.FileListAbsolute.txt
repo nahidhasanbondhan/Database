@@ -1,0 +1,154 @@
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Entry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Salary_input.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Login.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\DataBase 1.2\DataBase 1.2\obj\Debug\DataBase_1._2.View1.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Entry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.View1.resources
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csprojAssemblyReference.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Entry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.View1.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csprojAssemblyReference.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csprojAssemblyReference.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Entry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.View1.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csprojAssemblyReference.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database 3.0 Latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage.mdf
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Storage_log.ldf
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe.config
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.dll
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.dll
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\Google.Protobuf.xml
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\bin\Debug\MySql.Data.xml
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csprojAssemblyReference.cache
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Create_new_account.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Employee_INput.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.en_blank.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Login_entry.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Febricart.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Home.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Product_ENtry.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Properties.Resources.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.GenerateResource.cache
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CoreCompileInputs.cache
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.csproj.CopyComplete
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.exe
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase 1.2.pdb
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.About.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Help.resources
+D:\soft and study\Study\3-1\Database\Database latest\Database 3.0 Old1\Database 3.0 Old\DataBase 1.3\DataBase 1.2\obj\Debug\DataBase_1._2.Settings.resources
